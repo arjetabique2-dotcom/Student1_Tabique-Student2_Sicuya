@@ -1,6 +1,6 @@
 # Added by Tabique
 
-def greet(name):
-    return "Hello, " + name
+def add(a, b):
+    return a + b
 
-print(greet("GitHub"))
+print(greet(add(5, 3))
